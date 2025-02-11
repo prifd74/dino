@@ -2,11 +2,11 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://RTX:pokemon@cluster0.na7n4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
         "other": true,
-        "hentai": true,
+        "hentai": false,
         "troll": true,
         "levelling" : true,
         "lavalink" : true,
